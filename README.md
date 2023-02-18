@@ -1,14 +1,14 @@
 # MedicGo
 MedicGo is a mobile app that streamlines the process of accessing medical health information and prescriptions. The app allows users to create a QR code containing their medical health information and basic personal details, which can be easily presented to hospitals and other medical institutions. In addition, the app features a prescription scanner that can translate prescriptions into any required language.
 
-##Features
+## Features
 QR code generator: The app generates a QR code that contains the user's medical health information, such as their allergies, blood type, and medical history. This information can be easily scanned by hospitals and other medical institutions to speed up the admission process and provide medical professionals with essential information about the patient.
 
 Prescription scanner: The app also features a prescription scanner that allows users to scan and translate their prescriptions into any required language. This can be especially useful for users who do not speak the local language or who need to access medical care while traveling abroad.
 
 Maps: The app also opens a built-in map using Google Maps to navigate the current location. It was made to locate closest pharmacies after recieving prescriptions.
 
-##Technologies Used
+## Technologies Used
 Dart: The app is built using Dart, a programming language developed by Google that is used to create mobile, web, and desktop applications.
 
 Python: The prescription translate feature is built using Python, a versatile programming language that is widely used in data analysis, machine learning, and web development.
