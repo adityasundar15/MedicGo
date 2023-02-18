@@ -1,19 +1,19 @@
 # MedicGo
-![](https://user-images.githubusercontent.com/78486898/218290593-0e36bcd8-8a05-4e71-b7e1-14f10005b046.jpg)
+MedicGo is a mobile app that streamlines the process of accessing medical health information and prescriptions. The app allows users to create a QR code containing their medical health information and basic personal details, which can be easily presented to hospitals and other medical institutions. In addition, the app features a prescription scanner that can translate prescriptions into any required language.
 
-## Aboout Our Team
-### Stack UnderFlow
-![](https://user-images.githubusercontent.com/78486898/218290658-fb8d4bcf-8be7-43a5-a70b-ff943d3b07b9.jpg)
-  
-## About MedicGo
-### Why?
-![](https://user-images.githubusercontent.com/78486898/218290714-2ecbd099-fa2d-425d-8834-b9088bb90816.jpg)
+##Features
+QR code generator: The app generates a QR code that contains the user's medical health information, such as their allergies, blood type, and medical history. This information can be easily scanned by hospitals and other medical institutions to speed up the admission process and provide medical professionals with essential information about the patient.
 
-### Who?
-![](https://user-images.githubusercontent.com/78486898/218290757-b84e2ff5-855d-4786-9863-930c2d00e71d.jpg)
+Prescription scanner: The app also features a prescription scanner that allows users to scan and translate their prescriptions into any required language. This can be especially useful for users who do not speak the local language or who need to access medical care while traveling abroad.
 
-### What?
-![](https://user-images.githubusercontent.com/78486898/218290781-911f6d4b-5ea9-47be-956c-58d59d4bee86.jpg)
+Maps: The app also opens a built-in map using Google Maps to navigate the current location. It was made to locate closest pharmacies after recieving prescriptions.
+
+##Technologies Used
+Dart: The app is built using Dart, a programming language developed by Google that is used to create mobile, web, and desktop applications.
+
+Python: The prescription translate feature is built using Python, a versatile programming language that is widely used in data analysis, machine learning, and web development.
+
+Flutter: The app is built using Flutter, a mobile app development framework that allows for the creation of high-quality, high-performance mobile apps for both Android and iOS.
 
 ## User Flow
 ![](https://user-images.githubusercontent.com/78486898/218290840-3f830c00-4aab-43e8-b06f-46a6047706c6.jpg)
@@ -39,6 +39,10 @@
 
 ## Project Architecture
 ![](https://user-images.githubusercontent.com/78486898/218290931-4d5ea0b4-9937-41e9-b8fd-02fdf0288226.jpg)
+
+## Aboout Our Team
+### Stack UnderFlow
+![](https://user-images.githubusercontent.com/78486898/218290658-fb8d4bcf-8be7-43a5-a70b-ff943d3b07b9.jpg)
 
 ## Credits
 - Jiyun Bae (GDSC SWU)
