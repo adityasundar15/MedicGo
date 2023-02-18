@@ -42,7 +42,7 @@
 
 ## Credits
 - Jiyun Bae (GDSC SWU)
-- Aditya Sundar (GDSC Waseda)
+- [Aditya Sundar](https://www.linkedin.com/in/aditya-sundar-7b88a8228/) (GDSC Waseda)
 - Yein Kang (GDSC SWU)
 - Jeongah Mok (GDSC SWU)
 - Hyonjoon Park (GDSC Waseda)
